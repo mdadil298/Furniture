@@ -1,12 +1,12 @@
 {
   "name": "street_stitch",
   "version": "0.1.0",
-  "description": "Street Stitch - An E-Commerce Fashion WebSite.",
-  "author": "Sourendranath Maity",
+  "description": "Furniture.",
+  "author": "Md Adil",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sourendra226/street_stitch.git"
+    "url": "https://github.com/mdadil298/Furniture"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.7.2",
